@@ -1,6 +1,6 @@
 ### Building an IQueryable Provider
 
-This was a series of articles written by [Matt Warren](https://github.com/mattwar) about writting LINQ Query Provider, I've assembled them in markdown here ofr easy reference.
+This was a series of articles written by [Matt Warren](https://github.com/mattwar) about writting LINQ Query Provider, I've formatted the content in markdown and have it here in one place for easy reference.
 
 1. [Reusable IQueryable base classes](tut/01-Reusable_IQueryable_base_classes.md)
 2. [Where and reusable Expression tree visitor](tut/02-Where_and_reusable_Expression_tree_visitor.md)

@@ -22,6 +22,13 @@ This was a series of articles written by [Matt Warren](https://github.com/mattwa
 
 to follow up with articles, here is the old source code:
 
+* [v0.05](ref/v0.05.zip)
+* [v0.06](ref/v0.06.zip)
+* [v0.07](ref/v0.07.zip)
+* [v0.08](ref/v0.08.zip)
+* [v0.09](ref/v0.09.zip)
+* [v0.10](ref/v0.10.zip)
+* [v0.11](ref/v0.11.zip)
 * [v0.12](ref/v0.12.zip)
 * [v0.13](ref/v0.13.zip)
 * [v0.14](ref/v0.14.zip)

@@ -722,7 +722,7 @@ public abstract class ExpressionVisitor
     return binding;
   }
 
-  protected virtual IEnumerable < MemberBinding > VisitBindingList(ReadOnlyCollection<MemberBinding> original)
+  protected virtual IEnumerable<MemberBinding> VisitBindingList(ReadOnlyCollection<MemberBinding> original)
   {
     List<MemberBinding> list = null;
 

@@ -500,7 +500,7 @@ ORDER BY t3.City
 Which is far cry better than what it was generating before. 
 
 If I run it to completion, I get the following output:
-```JSON
+```
 { City = Cowes, ContactName = Helen Bennett }
 { City = London, ContactName = Simon Crowther }
 { City = London, ContactName = Hari Kumar }

@@ -169,7 +169,7 @@ internal class QueryTranslator: ExpressionVisitor
         return c;
     }
 
-    protected override Expression VisitMemberAccess(MemberExpression m)
+    protected override Expression VisitMember(MemberExpression m)
     {
         if (m.Expression != null && m.Expression.NodeType == ExpressionType.Parameter)
         {

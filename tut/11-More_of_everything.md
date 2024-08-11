@@ -11,8 +11,11 @@ So just what have I been cooking? Let’s take a look at the highlights.
 That’s right; a lot more. Don’t believe me? Look at the code and see for yourself. Too busy? Boss breathing down your neck. Okay, here’s the list.
 
 `Distinct` - Not only is there translation for this, but Distinct also makes an appearance inside most aggregates! `AVG(DISTINCT t0.Price)` anyone!
+
 `Skip` & `Take` – Both work and work well together using the `ROW_NUMBER` & `BETWEEN` combo that gets incredible performance.
+
 `First`, `FirstOrDefault`, `Single` & `SingleOrDefault` – No, these are not just the same thing. They really do behave differently.
+
 `Any`, `All` & `Contains` - Not only do these guys work, but all three work with local collections. Use `collection.Any(xxx)` to get any predicate expression expanded into a series of `OR` conditions over the input set.
 
 #### Framework Methods and Properties

@@ -1,4 +1,4 @@
-### 02. Where and reusable Expression tree visitor
+### 2. Where and reusable Expression tree visitor
 
 Now, that I've laid the groundwork defining a reusable version of `IQueryable` and `IQueryProvider`, namely `Query<T>` and `QueryProvider`, I'm going to build a provider that actually does something. As I said before, what a query provider really does is execute a little bit of 'code' defined as an expression tree instead of actual IL. Of course, it does not actually have to execute it in the traditional sense. For example, LINQ to SQL translates the query expression into SQL and sends it to the server to execute it.
 

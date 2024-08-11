@@ -1,4 +1,4 @@
-### 01. Reusable IQueryable base classes
+### 1. Reusable IQueryable base classes
 
 I've been meaning for a while to start up a series of posts that covers building LINQ providers using `IQueryable`. People have been asking me advice on doing this for quite some time now, whether through internal Microsoft email or questions on the forums or by cracking the encryption and mailing me directly. Of course, I've mostly replied with “I'm working on a sample that will show you everything” letting them know that soon all will be revealed. However, instead of just posting a full sample here I felt it prudent to go step by step so I can actual dive deep and explain everything that is going on instead of just dumping it all in your lap and letting you find your own way.
 

@@ -12,7 +12,7 @@ This was a series of articles written by [Matt Warren](https://github.com/mattwa
 8. [OrderBy](tut/08-OrderBy.md) &#x2714;
 9. [Removing redundant subqueries](tut/09-Removing_redundant_subqueries.md) &#x2714;
 10. [GroupBy and Aggregates](tut/10-GroupBy_and_Aggregates.md) &#x2714;
-11. [More of everything](tut/11-More_of_everything.md)
+11. [More of everything](tut/11-More_of_everything.md) &#x2714;
 12. [Relationships and the IQ Toolkit](tut/12-Relationships_and_the_IQ_Toolkit.md)
 13. [Updates and Batch Processing](tut/13-Updates_and_Batch_Processing.md)
 14. [Mapping and Providers](tut/14-Mapping_and_Providers.md)

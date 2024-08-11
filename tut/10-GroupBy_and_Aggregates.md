@@ -1,4 +1,4 @@
-### GroupBy and Aggregates
+### 10. GroupBy and Aggregates
 
 Last time I blamed the television writers strike for delaying me in getting out my next installment.  This time I blame the lack of one, and sunny days, and my son riding his bicycle, and the grueling, tiresome task of getting paid.  Would you believe some of the code we are writing has nothing what-so-ever to do with `IQueryable` LINQ providers? Crazy, I know. Maybe it would be a different story around here if we had a few more shady trees. 
 
@@ -741,7 +741,7 @@ GROUP BY t0.CustomerID
 
 The results of execution are:
 
-```json
+```
 { Customer = ALFKI, Total = 64835, Min = 10643, Avg = 10805 }
 { Customer = ANATR, Total = 42618, Min = 10308, Avg = 10654 }
 { Customer = ANTON, Total = 74195, Min = 10365, Avg = 10599 }

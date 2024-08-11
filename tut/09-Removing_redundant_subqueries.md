@@ -1,4 +1,4 @@
-### Removing redundant subqueries
+### 9. Removing redundant subqueries
 
 It's now officially a trend that additional installments to this series take longer and longer to be produced.  Blame the television writer's strike, I do.
 

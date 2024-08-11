@@ -1,4 +1,4 @@
-### 03. Local variable references
+### 3. Local variable references
 
 Part 3?  Wasn't I done in the last post? Didn't I have the provider actually working, translating, executing and returning a sequence of objects?
 

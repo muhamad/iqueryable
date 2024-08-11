@@ -1,4 +1,4 @@
-### 05. Improved Column binding
+### 5. Improved Column binding
 
 Over the past four parts of this series I have constructed a working LINQ IQueryable provider that targets ADO and SQL and has so far been able to translate both `Queryable.Where` and `Queryable.Select` standard query operators. Yet, as big of an accomplishment that has been there are still a few gaping holes and I'm not talking about other missing operators like `OrderBy` and `Join`. I'm talking about huge conceptual gaffs that will bite anyone that strays from my oh-so-ideally crafted demo queries.
 

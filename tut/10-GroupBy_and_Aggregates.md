@@ -755,6 +755,8 @@ Don't ask me why I think it is interesting to total up the OrderID's.  I'm just 
 
 That's it. Really. This time I mean it. I'm done. If you want more take a look at the source code attached. All the gory details are in there, along with a bazillion minor bug fixes I made since the last installment.
 
-<font color='Navy'>*DISCLAIMER: The provided solution for `GroupBy` works well for many simple cases, such as when the aggregate expressions immediately follow the `GroupBy` operator.It is possible to write queries that produce the correlated sub-query form. This is normal. There is definitely still room for improvement.*</font>
+*DISCLAIMER: The provided solution for `GroupBy` works well for many simple cases, such as when the aggregate expressions immediately follow the `GroupBy` operator.It is possible to write queries that produce the correlated sub-query form. This is normal. There is definitely still room for improvement.*
 
 Now, get out from under that shady tree and get back to writing code. You know I am.
+
+[v0.10 Code](../ref/v0.10.zip)

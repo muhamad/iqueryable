@@ -2,15 +2,15 @@
 
 This was a series of articles written by [Matt Warren](https://github.com/mattwar) about writting LINQ Query Provider, I've formatted the content in markdown and have it here in one place for easy reference.
 
-1. [Reusable IQueryable base classes](tut/01-Reusable_IQueryable_base_classes.md)
-2. [Where and reusable Expression tree visitor](tut/02-Where_and_reusable_Expression_tree_visitor.md)
-3. [Local variable references](tut/03-Local_variable_references.md)
-4. [Select](tut/04-Select.md)
-5. [Improved Column binding](tut/05-Improved_Column_binding.md)
-6. [Nested queries](tut/06-Nested_queries.md)
-7. [Join and SelectMany](tut/07-Join_and_SelectMany.md)
-8. [OrderBy](tut/08-OrderBy.md)
-9. [Removing redundant subqueries](tut/09-Removing_redundant_subqueries.md)
+1. [Reusable IQueryable base classes](tut/01-Reusable_IQueryable_base_classes.md) &#x2714;
+2. [Where and reusable Expression tree visitor](tut/02-Where_and_reusable_Expression_tree_visitor.md) &#x2714;
+3. [Local variable references](tut/03-Local_variable_references.md) &#x2714;
+4. [Select](tut/04-Select.md) &#x2714;
+5. [Improved Column binding](tut/05-Improved_Column_binding.md) &#x2714;
+6. [Nested queries](tut/06-Nested_queries.md) &#x2714;
+7. [Join and SelectMany](tut/07-Join_and_SelectMany.md) &#x2714;
+8. [OrderBy](tut/08-OrderBy.md) &#x2714;
+9. [Removing redundant subqueries](tut/09-Removing_redundant_subqueries.md) &#x2714;
 10. [GroupBy and Aggregates](tut/10-GroupBy_and_Aggregates.md)
 11. [More of everything](tut/11-More_of_everything.md)
 12. [Relationships and the IQ Toolkit](tut/12-Relationships_and_the_IQ_Toolkit.md)
